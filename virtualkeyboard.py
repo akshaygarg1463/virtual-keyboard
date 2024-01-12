@@ -1,4 +1,4 @@
-mport cv2
+import cv2
 from cvzone.HandTrackingModule import HandDetector
 from time import sleep
 import cvzone
